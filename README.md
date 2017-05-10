@@ -1,1 +1,2 @@
-# 301-learning-journal
+# 301-learning-journal  
+## A Journal For Learning
