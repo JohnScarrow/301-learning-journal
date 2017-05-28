@@ -1,0 +1,1 @@
+#### It's been chanenging learning my first language after JS but im going to keep at it because i really eant to learn back end and be confortable with it and do most of my personal work there. I am still having alot of fun with all the projects that come out of front end programing.
