@@ -1,0 +1,1 @@
+#### Making a SPA is a very modern way to approtch a wep application. Loading everything at one go so you only have to make one GET request making th user experience faster. Without having your user using hyperlinks you can customize there transitions between pages, using CSS or JS to make there experience more enjoyable.
