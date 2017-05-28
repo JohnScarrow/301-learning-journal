@@ -1,0 +1,1 @@
+#### Right before project week i'm a little overwhelmed with the amount of work I have to get done before project week, but i cant wait to start shredding. I am very fortunate to get grouped up with the people and the project that I get to work on for final project. Working on a playlist generator using last.fm and spotify APT's.
