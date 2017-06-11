@@ -1,0 +1,1 @@
+#### After week one I thought I felt confident with confident but I fell back in the routine of always having to catchup.  I really love the struggle having to learn as much as i can to keep up with the class.
